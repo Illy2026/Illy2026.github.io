@@ -1,5 +1,4 @@
 main:
-
   - title: "Videos"
     url: /Videos/
   - title: "Image"
@@ -8,7 +7,8 @@ main:
     url: /Resources/
   - title: "Quizzes"
     url: /Quizzes/
-    title: "Aboutus"
+  - title: "Aboutus"
     url: /Aboutus/
-   title: "Feedback"
+  - title: "Feedback"
     url: /Feedback/
+
